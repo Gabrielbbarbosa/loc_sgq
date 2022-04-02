@@ -31,7 +31,7 @@ library (usethis)
 
 # Criar o CAMINHO ABSOLUTO
 
-create_project("C:/home/loc_sgq")
+# create_project("C:/home/loc_sgq")
 
 # Saidas no Console-------------------------------------------------------------
     #√ Creating 'C:/home/loc_sgq/'
